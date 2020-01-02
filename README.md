@@ -1,5 +1,3 @@
 # DartsAppVB
-OLD darts app made yonks ago by me.
-Very untested.
-good job nick
+Anytime you are ready to join, let me know.
 
